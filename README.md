@@ -30,7 +30,7 @@
 ### Links
 
 - Source code repository URL: [Github](https://github.com/basiacarvalho/react-2-travel-list)
-- Live Site URL: [Live demo](https://basiacarvalho.github.io/javascript-course-bankist2/)
+- Live Site URL: [Live demo](https://basiacarvalho.github.io/react-2-travel-list/)
 
 ### Visuals
 
