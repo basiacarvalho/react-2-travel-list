@@ -1,4 +1,4 @@
-## ### react-2-travel-list
+## react-2-travel-list
 
 # 🧳✈🌴 "Travel List"
 
